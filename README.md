@@ -70,7 +70,7 @@ const seventySevenTimesTable = [
 
 You think you know your seven times table, but you're feeling shaky on your seventy-seven times table.
 
-👉 4a. Using the `.every()` method, check that every number in the `sevenTimesTable` array is a multiple of `7`.
+👉 4a. U.
 
 👉 4b. Check if every number in the `seventySevenTimesTable` array is a multiple of `77` using the `.every()` method.
 
